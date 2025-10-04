@@ -1,9 +1,17 @@
 # RateBuddy
-RateBuddy is a social media platform where you can share your opinions and reviews about anything you want. What makes it unique is that other users can rate your reviews by giving them stars - so instead of just liking or commenting, people rate the quality of your review itself.
+# RateBuddy ⭐
 
-Think of it like this: you post your thoughts or a review, and the community tells you how helpful or insightful your review was by giving it a star rating. You can browse a feed of posts, see what's trending, and build your profile based on the quality of reviews you share.
+A social rating platform where the community decides what's worth your time. Share content, get rated, discover trending posts, and engage with AI-powered reviews.
 
-It's perfect for people who want their opinions to be valued and rated by others!
+## Features
+
+- **Post & Share**: Create posts with rich media (images/videos) and text content
+- **Star Ratings**: Community-driven 5-star rating system for all posts
+- **AI Comments**: Intelligent comment analysis with sentiment detection and rating suggestions
+- **Trending Feed**: Discover top-rated content ranked by community engagement
+- **User Profiles**: Personalized profiles with your posts and activity
+- **Mobile-First PWA**: Install on any device - works like a native app
+- **Real-time Updates**: Live feed updates as new content is posted
 
 # Installation Guide 
 ## On iPhone/iPad (Safari):
