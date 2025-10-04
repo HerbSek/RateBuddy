@@ -11,26 +11,27 @@ Instead of scrolling through messy, toxic, or repetitive comments, users see the
 
 ## 🌀 How It Works  
 
-1. **Create a Post**  
-   - Share anything: a product, a meme, a video, an idea, or even a personal thought.  
-   - Posts can include text, images, or video (like Reddit/Instagram).  
+## On iPhone/iPad (Safari):
+1. Open RateBuddy in Safari : https://ratebuddy.onrender.com
+2. Tap the Share button (square with arrow pointing up)
+3. Scroll down and tap "Add to Home Screen"
+4. Tap "Add"
+5. RateBuddy will now appear on your home screen like a regular app!
 
-2. **Community Reacts**  
-   - Other users leave comments like on any social platform.  
-   - But instead of comments being the final form, they are **inputs** for AI processing.  
+## On Android (Chrome):
+1. Open RateBuddy in Chrome : https://ratebuddy.onrender.com
+2. Tap the three dots menu (top right)
+3. Tap "Add to Home screen" or "Install app"
+4. Tap "Install"
+5. RateBuddy will appear on your home screen!
 
-3. **AI Sentiment Analysis**  
-   - Each comment is analyzed by RateBuddy’s **AI review engine**.  
-   - The AI determines sentiment: ⭐ worst → ⭐⭐⭐⭐⭐ excellent.  
-   - Example:  
-     - “Loved this post, super helpful!” → ⭐⭐⭐⭐⭐  
-     - “Meh, nothing new here.” → ⭐⭐⭐  
-     - “This is trash.” → ⭐  
+## On Desktop (Chrome/Edge):
+1. Open RateBuddy in your browser
+2. Look for the install icon (⊕ or download icon) in the address bar
+3. Click "Install"
+4. RateBuddy will open in its own window like a desktop app!
 
-4. **Automatic Ratings Summary**  
-   - Ratings from all comments are averaged and displayed as a **star rating for the post**.  
-   - Optionally: Users can expand to see **AI-summarized highlights of comments**  
-     *(“Most people liked this because it’s creative, but some thought it was repetitive”)*.  
+Once installed, RateBuddy works just like a native app - it has its own icon, runs in fullscreen, and even works offline!
 
 ---
 
