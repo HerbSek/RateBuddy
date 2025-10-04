@@ -1,4 +1,3 @@
-# RateBuddy
 # RateBuddy ⭐
 
 A social rating platform where the community decides what's worth your time. Share content, get rated, discover trending posts, and engage with AI-powered reviews.
