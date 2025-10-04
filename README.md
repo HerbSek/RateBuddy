@@ -7,14 +7,14 @@ It's perfect for people who want their opinions to be valued and rated by others
 
 # Installation Guide 
 ## On iPhone/iPad (Safari):
-1. Open RateBuddy in Safari : {https://ratebuddy.onrender.com}(Ratebuddy)
+1. Open RateBuddy in Safari : {https://ratebuddy.onrender.com}
 2. Tap the Share button (square with arrow pointing up)
 3. Scroll down and tap "Add to Home Screen"
 4. Tap "Add"
 5. RateBuddy will now appear on your home screen like a regular app!
 
 ## On Android (Chrome):
-1. Open RateBuddy in Chrome  : {https://ratebuddy.onrender.com}(Ratebuddy)
+1. Open RateBuddy in Chrome  : {https://ratebuddy.onrender.com}
 2. Tap the three dots menu (top right)
 3. Tap "Add to Home screen" or "Install app"
 4. Tap "Install"
